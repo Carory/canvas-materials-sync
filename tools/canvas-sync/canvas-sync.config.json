@@ -1,0 +1,12 @@
+{
+  "canvasBaseUrl": "https://canvas.cityu.edu.hk",
+  "courses": [
+    { "code": "5001", "localDirectory": "5001_Statistical_ML" },
+    { "code": "5002", "localDirectory": "5002_EDA_Visualization" },
+    { "code": "5003", "localDirectory": "5003_Data_Storage_Retrieval" },
+    { "code": "6004", "localDirectory": "6004_AI_Smart_Cities" },
+    { "code": "6012", "localDirectory": "6012_Time_Series_RNN" },
+    { "code": "6013", "localDirectory": "6013_Financial_Engineering" },
+    { "code": "6016", "localDirectory": "6016_Finance_Forecasting" }
+  ]
+}

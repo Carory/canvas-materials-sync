@@ -1,0 +1,12 @@
+# Canvas credentials and local synchronization state
+*.dpapi
+course-map.json
+manifest.json
+last-run.log
+
+# Downloaded course content must not be committed
+**/materials/
+
+# Operating-system files
+Thumbs.db
+.DS_Store
